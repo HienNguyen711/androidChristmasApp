@@ -9,3 +9,10 @@
 + Bluetooth **fish finder** with android client.
 + Get rid of **intrigant b(l)ack door attack** of firewall system with **sound synthesis** with android client
 + Situation make up b(l)ack lady queen API consumed with android client 
+
+
+
+## How to contribute 
++ Call for b(l)ack end developers to contribute to better test solutions to remove the b(l)ack door 
++ Tests runned by shopware manager and android detective passed 100% 
++ Tests runned by b(l)ack end developer passed -27%
