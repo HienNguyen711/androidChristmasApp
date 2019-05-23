@@ -8,3 +8,4 @@
 + Sensors detect physical properties of digital signals with data transfer(MQTT) of **apples** with android client 
 + Bluetooth **fish finder** with android client.
 + Get rid of **intrigant b(l)ack door attack** of firewall system with **sound synthesis** with android client
++ Situation make up b(l)ack lady queen API consumed with android client 
